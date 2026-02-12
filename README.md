@@ -4,7 +4,8 @@
 ### 🎯 **What I Learned Today**
 -What is HTML?
 -HTML Document Structure
--Important HTML Tags : html,head,body,h1 – h6,p,a,img,div,span.
+-Important HTML Tags : html,head,body,h1 – h6,p,a,img,div,span
+
 -Create a Simple Profile Page.
 
 ---
@@ -50,10 +51,10 @@
 
 **🔍 Explanation** :
 
-<!DOCTYPE html> → Defines HTML5
-<html> → Root element
-<head> → Contains meta information
-<body> → Contains visible content
+-<!DOCTYPE html> → Defines HTML5-
+-<html> → Root element
+-<head> → Contains meta information
+-<body> → Contains visible content
 
 --
 
