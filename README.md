@@ -27,6 +27,8 @@
 
 --
 
+
+
 #### **2.🏗️ HTML Document Structure.** ####
 
 -Every HTML page follows a basic structure:
@@ -55,7 +57,36 @@
 
 --
 
+
+
 #### **3.🏷️ Important HTML Tags** ####
 
+**1️⃣ <html>**
+ -Root element of the webpage.
 
+**2️⃣ <head>**
+ -Contains title, meta, links, scripts.
+
+**3️⃣ <body>**
+ -Contains all visible content.
+
+**4️⃣ Headings <h1> – <h6>**
+ -Used for titles and subtitles.
+
+**5️⃣ Paragraph <p>**
+ -used to write paragraph text in a webpage.
+
+**6️⃣ Anchor Tag <a>**
+ -Used to create links.
+
+**7️⃣ Image Tag <img>**
+ -used to display images on a webpage.
+
+**8️⃣ <div>**
+ -Block-level container for grouping elements.
+
+**9️⃣ <span>**
+ -Inline container for styling small parts of text.
+ 
+--
 
