@@ -69,7 +69,7 @@
 **3️⃣ <body>**
  -Contains all visible content.
 
-**4️⃣ <h1> – <h6>**
+**4️⃣ <h1><h6>**
 -Heading tags used for titles and subtitles.
 
 **5️⃣ <p>**
