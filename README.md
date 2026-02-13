@@ -101,7 +101,7 @@
  - Profile.html
  - img/Srujana.jpeg
 
- - **🔎 Why?**
+   🔎 Why?
 - index.html → Main webpage file
 - profile.jpg → Your profile photo
 
@@ -117,7 +117,7 @@
 </body>
 </html>
 
-**🔎 Explanation**
+🔎 Explanation
 <!DOCTYPE html> → Tells browser this is HTML5
 <html> → Root of webpage
 <head> → Contains page title
@@ -127,7 +127,7 @@
 Inside <body>, adding:
 <h1 align="center">My Profile</h1>
 
-**🔎 Explanation**
+🔎 Explanation
 <h1> → Main heading
 align="center" → Centers the text
 
@@ -140,7 +140,7 @@ Added below heading:
          style="border-radius:50%;">
 </center>
 
-**🔎 Explanation**
+🔎 Explanation
 
 <img> → Displays image
 src → Image file name
@@ -156,7 +156,7 @@ I am learning HTML and Web Development.<br>
 I am passionate about building websites.
 </p>
 
-**🔎 Explanation**
+🔎 Explanation
 <h2> → Subheading
 <p> → Paragraph text
 
@@ -176,7 +176,7 @@ I am passionate about building websites.
   </a>
   </p>
 
-  **🔎 Explanation**
+  🔎 Explanation
 <a> → Creates link
 href → Website address
 
@@ -233,6 +233,10 @@ href → Website address
 </html>
 
 **OUT PUT**
+![Profile Image](Srujana.jpeg)
+
+
+
 
     
 
