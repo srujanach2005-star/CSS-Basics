@@ -24,11 +24,11 @@
 **Example:**
 
 <h1>Hello World</h1>
---
 
 
 
-#### **2.🏗️ HTML Document Structure.** ####
+
+#### **2. HTML Document Structure.** ####
 
 -Every HTML page follows a basic structure:
 
@@ -54,7 +54,7 @@
 -<head> → Contains meta information
 -<body> → Contains visible content
 
---
+
 
 
 
@@ -87,5 +87,5 @@
 **9️⃣ <span>**
  -Inline container for styling small parts of text.
  
---
+
 
