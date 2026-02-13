@@ -69,14 +69,14 @@
 **3️⃣ <body>**
  -Contains all visible content.
 
-**4️⃣ <h1><h6>**
- -Heading Tags Used for titles and subtitles.
+**4️⃣ <h1> – <h6>**
+-Heading tags used for titles and subtitles.
 
 **5️⃣ <p>**
- -used to write paragraph text in a webpage.
+-Used to write paragraph text in a webpage.
 
 **6️⃣ <a>**
- -Anchor Tag Used to create links.
+-Anchor tag used to create links.
 
 **7️⃣ <img>**
  -Image Tag used to display images on a webpage.
