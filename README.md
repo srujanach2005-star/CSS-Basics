@@ -142,7 +142,7 @@
 </html>
 
 **OUT PUT**
-![Day-1](img/DAY-1 OUT PUT.png)
+![Day-1](img/day-1-output.png)
 
 
 
