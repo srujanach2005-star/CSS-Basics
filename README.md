@@ -142,7 +142,8 @@
 </html>
 
 **OUT PUT**
-![Profile Image](Srujana.jpeg)
+![My Profile](images/srujana.jpeg)
+
 
 
 
