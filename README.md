@@ -168,25 +168,35 @@ letter-spacing: 2px;
 
 body {
     background-color: #f0f8ff;
+    
     font-family: Arial, sans-serif;
 }
 
 
 .container {
     width: 400px;
+    
     margin: 40px auto;
+    
     padding: 20px;
+    
     background-color: white;
+    
     border-radius: 10px;
+    
     box-shadow: 0px 0px 10px gray;
+    
     text-align: center;
 }
 
 
 .profile-img {
     width: 150px;
+    
     height: 150px;
+    
     border-radius: 50%;
+    
     border: 4px solid black;
 }
 
@@ -198,27 +208,32 @@ body {
 
 h2 {
     color: black;
+    
     text-transform: uppercase;
 }
 
 
 p {
     color: #555;
+    
     font-size: 14px;
 }
 
 
 a {
     color: black;
+    
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
+    
     color: darkred;
 }
 .container:hover {
     transform: scale(1.05);
+    
     transition: 0.3s;
 }
 
