@@ -165,13 +165,13 @@ letter-spacing: 2px;
 </html>
 
 # CSS :
-/* Body Styling */
+
 body {
     background-color: #f0f8ff;
     font-family: Arial, sans-serif;
 }
 
-/* Main Container */
+
 .container {
     width: 400px;
     margin: 40px auto;
@@ -182,7 +182,7 @@ body {
     text-align: center;
 }
 
-/* Profile Image */
+
 .profile-img {
     width: 150px;
     height: 150px;
@@ -190,24 +190,24 @@ body {
     border: 4px solid black;
 }
 
-/* Section Styling */
+
 .section {
     margin-top: 20px;
 }
 
-/* Headings */
+
 h2 {
     color: black;
     text-transform: uppercase;
 }
 
-/* Paragraph */
+
 p {
     color: #555;
     font-size: 14px;
 }
 
-/* Links */
+
 a {
     color: black;
     text-decoration: none;
@@ -223,7 +223,8 @@ a:hover {
 }
 
 # OUT PUT
-<img src="img/day-4-output.png" width="600">
+
+![Profile Output](img/day-4-output.png)
 
 
 
