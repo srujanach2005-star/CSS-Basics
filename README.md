@@ -142,6 +142,6 @@ Connects label with input.
 </html>
 
 # OUT PUT
-
 ![Day-3 Output](img/day-3-output.png)
+
 
