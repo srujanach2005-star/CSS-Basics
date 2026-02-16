@@ -222,10 +222,9 @@ a:hover {
     transition: 0.3s;
 }
 
+# OUT PUT
+![Day-4 Output](img/day-4-output.png)
 
-<h2>OUT PUT</h2>
-
-<img src="img/day-4-output.png" width="600">
 
 
 
